@@ -1,0 +1,10 @@
+com\example\shop\DataLoader.class
+com\example\shop\ShopApplication.class
+com\example\shop\cart\CartLine.class
+com\example\shop\model\CustomerOrder.class
+com\example\shop\repository\OrderRepository.class
+com\example\shop\cart\Cart.class
+com\example\shop\repository\ProductRepository.class
+com\example\shop\model\OrderItem.class
+com\example\shop\model\Product.class
+com\example\shop\controller\ShopController.class
